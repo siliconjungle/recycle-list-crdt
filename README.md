@@ -1,2 +1,3 @@
-# tiny-merge-2
-A Tiny CRDT library.
+# Recycle list CRDT
+
+A CRDT that recycles tombstones.
